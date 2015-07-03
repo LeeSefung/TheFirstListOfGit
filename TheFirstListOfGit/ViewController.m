@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     self.view.backgroundColor = [UIColor orangeColor];
+    //Today is Friday
+    //We Do github
 }
 
 - (void)didReceiveMemoryWarning {
